@@ -1,0 +1,13 @@
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\MainWindow.baml
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\MainWindow.g.cs
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\App.g.cs
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring_MarkupCompile.cache
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.g.resources
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.Properties.Resources.resources
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.csproj.GenerateResource.Cache
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\bin\Debug\GraphColouring.exe.config
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\bin\Debug\GraphColouring.exe
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\bin\Debug\GraphColouring.pdb
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.exe
+c:\users\geo\documents\visual studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.pdb
+C:\Users\Geo\Documents\Visual Studio 2013\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.csprojResolveAssemblyReference.cache
